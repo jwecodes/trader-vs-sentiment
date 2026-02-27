@@ -118,8 +118,8 @@ An interactive dashboard allows:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-link>
-cd trader-sentiment-analysis
+git clone <https://github.com/jwecodes/trader-vs-sentiment.git>
+cd trader-vs-sentiment
 pip install -r requirements.txt
 python -m streamlit run app.py
 App will open at: http://localhost:8501
