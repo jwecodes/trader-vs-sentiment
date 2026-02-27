@@ -115,8 +115,6 @@ An interactive dashboard allows:
 
 ## ⚙️ How to Run Locally
 
-### 1️⃣ Clone Repository
-
 ```bash
 git clone <https://github.com/jwecodes/trader-vs-sentiment.git>
 cd trader-vs-sentiment
