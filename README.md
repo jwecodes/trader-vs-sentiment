@@ -101,6 +101,31 @@ An interactive dashboard allows:
 
 ---
 
+## 📷 Dashboard Preview
+
+<h3 align="center">Main Dashboard</h3>
+<p align="center">
+  <img src="assets/img1.png" width="900"/>
+</p>
+
+---
+
+<h3 align="center">📊 Sentiment & Performance Analysis</h3>
+<p align="center">
+  <img src="assets/img2.png" width="45%"/>
+  <img src="assets/img3.png" width="45%"/>
+</p>
+
+---
+
+<h3 align="center">👥 Clustering & Predictive Modeling</h3>
+<p align="center">
+  <img src="assets/img4.png" width="45%"/>
+  <img src="assets/img5.png" width="45%"/>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 - Python
